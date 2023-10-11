@@ -87,7 +87,7 @@ ScrollReveal().reveal(".slide-upp", {
   interval: 200,
   duration: 2000,
   origin: "bottom",
-  distance: "300px",
+  distance: "200px",
   easing: "cubic-bezier(.37,.01,.74,1)",
 });
 
